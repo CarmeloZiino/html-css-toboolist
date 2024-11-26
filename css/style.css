@@ -1,0 +1,57 @@
+header {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+
+#logo,
+#scritta-logo {
+  display: inline-block;
+  vertical-align: middle;
+  font-family: Arial;
+}
+
+body {
+  background-color: #f7f8f9;
+}
+
+#contenitore {
+  padding: 50px 0px;
+  margin: 10% 10%;
+  width: 700px;
+  height: 800px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.button {
+  border-radius: 8px;
+  padding: 8px;
+  font-family: Arial;
+}
+
+.button-line {
+    margin-left: 100px;
+}
+
+hr {
+  width: 1000px;
+  margin-top: 20px;
+  margin-left: 0px;
+  border: 2px solid #f7f8f9;
+}
+
+
+
+#b-first {
+  background-color: #47acf2;
+  color: white;
+}
+
+#b-second {
+  background-color: white;
+  color: lightgray;
+  border-color: lightgray;
+  border: 1px solid;
+}
