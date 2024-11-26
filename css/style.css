@@ -84,6 +84,18 @@ padding: 5px;
 
 }
 
+.ballot {
+    color: #EE7B76;
+    border: 1px solid #EE7B76;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    margin: 2%
+
+}
+
 .type {
     font-size: 8pt;
     color: white;
