@@ -96,12 +96,42 @@ padding: 5px;
 
 }
 
-.type {
+.type-editotial,
+.type-mobile,
+.type-q-goals,
+.type-recruting,
+.type-sales,
+.type-website {
     font-size: 8pt;
     color: white;
     
-    background-color: #42AAEA;
-    padding: 6px;
+    padding: 6px 10px 6px 10px;
     border-radius: 10px;
     margin: 2%
+}
+
+.type-q-goals{
+background-color: #9B72E5;
+}
+
+.type-recruting{
+background-color: #64C0A9;
+}
+
+.type-mobile{
+background-color: #F29D34;
+}
+
+.type-website{
+background-color: #D963A0;
+}
+
+.type-sales
+{
+background-color: #AFC81F;
+}
+
+.type-editotial
+{
+    background-color: #42AAEA;
 }
