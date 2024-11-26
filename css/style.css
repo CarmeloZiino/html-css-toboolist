@@ -32,7 +32,7 @@ body {
 }
 
 .button-line {
-    margin-left: 100px;
+  margin-left: 100px;
 }
 
 hr {
@@ -41,8 +41,6 @@ hr {
   margin-left: 0px;
   border: 2px solid #f7f8f9;
 }
-
-
 
 #b-first {
   background-color: #47acf2;
@@ -55,3 +53,18 @@ hr {
   border-color: lightgray;
   border: 1px solid;
 }
+
+.check-list {
+    margin-left: 10%;
+}
+
+.title-check-list {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18pt;    
+    font-weight: bold;
+    }
+
+.list {
+
+}
+
